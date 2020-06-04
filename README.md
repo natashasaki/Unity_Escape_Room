@@ -1,4 +1,4 @@
-## Unity_Escape_Room
+# Unity_Escape_Room
 A VR escape room game created using Unity for Stanford's EE267 final project. 
 
 The game is adapted for the View-Master Deluxe VR Viewer. 
@@ -9,7 +9,7 @@ Teensy provides the proper support circuitry for the photodiodes used with the H
 Created during COVID-19 as a proof of concept of creating engaging, enjoyable VR 3D escape games. See the written report for more details on project description, motivation, game outline, and game images.
 
 
-#Future Improvements
+## Future Improvements
 As outlined in the report, some future improvements could include
 - Multi-player Implementation
 - Haptic Feedback

@@ -6,7 +6,7 @@ Tracked users’ heads with an IMU mounted on the VR headset, specifically track
 The VRduino is a custom hardware for position tracking, which incorporates an IMU and Teensy. 
 Teensy provides the proper support circuitry for the photodiodes used with the HTC Vive Lighthouses. 
 
-Created during COVID-19 as a proof of concept of creating engaging, enjoyable VR 3D escape games. See the written report for more details on project description, motivation, game outline, and game images.
+Created during COVID-19 as a proof of concept of creating engaging, enjoyable VR 3D escape games that can help calm people's stresses and anxieties. See the written report for more details on project description, motivation, game outline, and game images.
 
 
 ## Future Improvements
